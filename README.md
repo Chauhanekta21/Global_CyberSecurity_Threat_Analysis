@@ -66,7 +66,7 @@ The analysis explores:
 ## 📊 Dataset Information:
 
 * **Source:** Kaggle
-* Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
+* Dataset Link: [global-cybersecurity-threats-kaggle-dataset](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
 * **Time Period:** 2015–2024
 * **Rows:** 3,000
 * **Columns:** 10
