@@ -59,18 +59,17 @@ The analysis explores:
 * Analyze incident resolution time
 * Identify important cybersecurity patterns and trends
 
-> Note: Objectives may be refined or updated as the analysis progresses and new patterns are identified.
+> **Note:** Objectives may be refined or updated as the analysis progresses and new patterns are identified.
 
 ---
 
 ## 📊 Dataset Information:
 
 * **Source:** Kaggle
-* Dataset Link: Kaggle Dataset
+* Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
 * **Time Period:** 2015–2024
 * **Rows:** 3,000
 * **Columns:** 10
-* **File Used:** `global_cybersecurity_threat_dataset.csv`
 
 ### Key Features:
 
