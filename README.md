@@ -1,5 +1,7 @@
 # 📊 Global Cybersecurity Threat Analysis
 
+> **Project Status: In Progress**
+
 ![Global Cybersecurity Threat Analysis](Images/cybersecurity_thumbnail.png)
 
 ---
